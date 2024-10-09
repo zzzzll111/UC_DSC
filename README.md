@@ -1,4 +1,4 @@
-# UC_DSC-code-
+# UC_DSC-code
 This repository is the code part of our paper `UC_DSC`. 
 
 `privatechain_macos_folder` contains various information related to private chains on macOS, such as the genesis block, accounts, keys, and more.
