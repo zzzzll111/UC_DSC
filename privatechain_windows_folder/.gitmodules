@@ -1,0 +1,3 @@
+[submodule "privatechain_windows"]
+	path = privatechain_windows
+	url = https://github.com/zzzzll111/UC_DSC.git
