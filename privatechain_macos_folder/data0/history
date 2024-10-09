@@ -1,0 +1,66 @@
+admin.addPeer("enode://b6d889ec6b3d3844777641db7b10fe4029e373ac1439655227f8109186ab732ada892f16d49b7cd00c74f3f43eaa4090d2319d7c155dbc5e4bcc6cd3aea912f1@192.168.1.45:30301?discport=0")
+admin.peers
+admin.addPeer("enode://b6d889ec6b3d3844777641db7b10fe4029e373ac1439655227f8109186ab732ada892f16d49b7cd00c74f3f43eaa4090d2319d7c155dbc5e4bcc6cd3aea912f1@192.168.1.45:30301?discport=0")
+admin.peers
+ezit
+admin.addPeer("enode://b6d889ec6b3d3844777641db7b10fe4029e373ac1439655227f8109186ab732ada892f16d49b7cd00c74f3f43eaa4090d2319d7c155dbc5e4bcc6cd3aea912f1@192.168.1.45:30301?discport=0")
+admin.peers
+EXIT
+eth.accounts
+web3.fromWei(eth.getBalance(eth.accounts[0]),'ether')
+miner.setEtherbase(eth.accounts[0]);
+miner.start()
+miner.stop()
+eth.getBalance(eth.accounts[0])
+eth.getBlock('latest').difficulty
+admin.peers
+admin.addPeer("enode://b6d889ec6b3d3844777641db7b10fe4029e373ac1439655227f8109186ab732ada892f16d49b7cd00c74f3f43eaa4090d2319d7c155dbc5e4bcc6cd3aea912f1@192.168.1.45:30301?discport=0")
+eth.getBlock('latest').difficulty
+admin.peers
+eth.blockNumber
+web3.fromWei(eth.getBalance(eth.accounts[0]),'ether')
+eth.accounts
+eth.sendTransaction({from:eth.accounts[0], to:" 0xa1f2fa0abe77fc98a4195294c7088b78386805bf ", value:100})
+eth.sendTransaction({from:eth.accounts[0], to:"0xa1f2fa0abe77fc98a4195294c7088b78386805bf", value:100})
+txpool.status
+eth.blockNumber
+web3.fromWei(eth.getBalance(eth.accounts[0]),'ether')
+txpool.status
+miner.start(1);admin.sleepBlocks(1);miner.stop();
+txpool.status
+eth.getBalance(eth.accounts[0])
+eth.getBalance(0xa1f2fa0abe77fc98a4195294c7088b78386805bf
+)
+eth.getBalance(“0xa1f2fa0abe77fc98a4195294c7088b78386805bf“)
+eth.getBalance("0xa1f2fa0abe77fc98a4195294c7088b78386805bf")  // 确保地址之前或之后没有额外的空格
+admin.peers
+web3.fromWei(eth.getBalance(eth.accounts[0]),'ether')
+admin.peers
+eth.sendTransaction({from:eth.accounts[0], to:"0xa1f2fa0abe77fc98a4195294c7088b78386805bf", value:100, data: ' 0x68656c6c6f776f7264efbc8c6920616d205a4c59efbc8c492077616e7420746f207465737420746865206d6178206c656e677468206f6620646174612e'})
+eth.sendTransaction({from:eth.accounts[0], to:"0xa1f2fa0abe77fc98a4195294c7088b78386805bf", value:100, data: '0x68656c6c6f776f7264efbc8c6920616d205a4c59efbc8c492077616e7420746f207465737420746865206d6178206c656e677468206f6620646174612e'})
+txpool.status
+eth.sendTransaction({from:eth.accounts[0], to:"0xa1f2fa0abe77fc98a4195294c7088b78386805bf", value:100, data: '0x 74686973206973206d79207365636f6e64206d657373616765'})
+eth.sendTransaction({from:eth.accounts[0], to:"0xa1f2fa0abe77fc98a4195294c7088b78386805bf", value:100, data: '0x74686973206973206d79207365636f6e64206d657373616765'})
+txpool.status
+miner.start(1);admin.sleepBlocks(1);miner.stop();
+eth.getBlock(22)
+eth.getTransaction(' 0x9c79deee90e58015df208209df14c1854fe499ceb40e19bb0251dbeb2ccd3f40')
+eth.getTransaction('0x9c79deee90e58015df208209df14c1854fe499ceb40e19bb0251dbeb2ccd3f40')
+eth.getTransaction('0x8dc5e310c3cf3dc68d90208d651ce5e4a3831b2f2490b3b5400c3fac4260be9e')
+admin.addPeer("enode://b6d889ec6b3d3844777641db7b10fe4029e373ac1439655227f8109186ab732ada892f16d49b7cd00c74f3f43eaa4090d2319d7c155dbc5e4bcc6cd3aea912f1@192.168.2.48:30301?discport=0")
+admin.peers
+eth.ACCOUNTS
+eth.accounts
+eth.blockNumber
+eth.getBlock("lasest")
+eth.getBlock(23)
+admin.peers
+logging.debug
+eth.getBalance(eth.accounts[0])
+eth.accounts
+miner.setEtherbase(eth.accounts[0]);
+eth.blockNumber
+eth.sendTransaction({from:eth.accounts[0], to:"0xa1f2fa0abe77fc98a4195294c7088b78386805bf", value:100, data: '0x68656c6c6f776f7264efbc8c6920616d205a4c59efbc8c492077616e7420746f207465737420746865206d6178206c656e677468206f6620646174612e'})
+miner.start(1);admin.sleepBlocks(1);miner.stop();
+eth.blockNumber
+eth.getBlock(24)
